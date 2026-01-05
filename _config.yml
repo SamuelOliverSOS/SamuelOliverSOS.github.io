@@ -17,7 +17,7 @@ avatar: https://github.com/SamuelOliverSOS/SamuelOliverSOS.github.io/blob/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:samuelos@uw.edu
   facebook:
   flickr:
   github: SamuelOliverSOS
@@ -52,7 +52,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /:Samuel_Oliver_Slutz_Note_Book/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
