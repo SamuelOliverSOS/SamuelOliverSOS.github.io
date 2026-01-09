@@ -2,7 +2,7 @@
 layout: post
 title: Update on Augustus Starfish Set 1/7/2026
 ---
-Hi it's Sam again, I have now fully completed the BLAST processing of Augustus Set. Now, I've started on the interpretation of those protiens utilizing UniProt. Since I need to compare which protiens are being transcribed for each of the starfish species in Augustus Set, P. ochraceus, P. helianthoides, and D. ambricata, I have created this little matrix with Excel:
+Hi it's Sam again, I have now fully completed the BLAST processing of Augustus Set. Now, I've started on the interpretation of those protiens utilizing UniProt. Since I need to compare which protiens are being transcribed for each of the starfish species in Augustus Set, P. ochraceus, P. helianthoides, and D. imbricata, I have created this little matrix with Excel:
 
 
 ![image](/images/mine/Picture of Agustus Star Protein Matrix.png)
